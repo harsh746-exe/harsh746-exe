@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi, I'm Harsh! I'm a Computer Engineering graduate with a strong background in software development and Machine Learning. Over the years, I've contributed to building scalable applications, optimizing system performance, and automating processes to enhance efficiency.
+
+A few of my favorite achievements so far: 
+* Automated system monitoring using Python & PowerShell, reducing downtime by 30% and ensuring 99.9% uptime (TCS). 
+* Built and optimized RESTful APIs handling 5,000+ requests daily, reducing average latency to 120ms (Flask, MongoDB). 
+* Developed a full-stack Vehicle Insurance Management System, improving data retrieval speed by 35% (Java, SQL). 
+* Deployed cloud-native applications on AWS, integrating Kubernetes for auto-scaling and reducing server costs by 20%.
+
+I'm passionate about backend development, cloud computing, and automation. Let’s connect and discuss how technology can drive efficiency and innovation! 🚀</h2>
 
 ###
 
