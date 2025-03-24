@@ -27,35 +27,57 @@
 ### 👨‍💻 Who am I?
 ```yaml
 name: Harsh Dwivedi
-located_in: India
-current_role: Software Engineer
+location: Syracuse, New York
+contact: 
+  email: edwivediharsh@gmail.com
+  phone: +1 (680) 216-2032
+
 education:
-  [
-    "Bachelor's in Computer Engineering",
-    "Full Stack Development",
-    "Cloud Computing"
-  ]
-company: TCS
+  - degree: M.S. in Computer Engineering
+    university: Syracuse University
+    location: Syracuse, New York
+    duration: "August 2024 - May 2026"
+    
+  - degree: B.E. in Electronics Engineering
+    university: Mumbai University
+    location: Navi Mumbai, Maharashtra
+    duration: "August 2019 - July 2023"
+
+experience:
+  - role: Assistant System Engineer
+    company: Tata Consultancy Services (TCS)
+    duration: "January 2024 - July 2024"
+    highlights: ["Automated monitoring", "Cloud management", "Process optimization"]
+    
+  - role: Freelance Web Developer
+    company: Picky with Picks
+    duration: "November 2022 - January 2023"
+    
+  - role: Cloud Intern
+    company: AICTE
+    duration: "October 2021 - December 2021"
+    
+  - role: Data Intern
+    company: TCR Innovations
+    duration: "June 2021 – August 2021"
+
+achievements:
+  - "Patent Application No. 202321073609"
+  - "Reduced system downtime by 30%"
+  - "Improved data analysis times by 40%"
+  - "Enhanced security compliance by 40%"
 
 fields_of_interests:
   [
-    "Backend Development",
     "Cloud Architecture",
-    "DevOps",
-    "Machine Learning",
-    "System Design"
+    "DevOps & CI/CD",
+    "Full Stack Development",
+    "System Design",
+    "Machine Learning"
   ]
-  
-technical_background:
-  [
-    "Full-Stack Developer - Building Scalable Applications",
-    "DevOps Engineer - Cloud & Infrastructure",
-    "System Designer - Architecting Solutions"
-  ]
-  
-currently_learning: ["Blockchain", "Web3", "Advanced ML"]
-2024_goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
-hobbies: ["Gaming", "Cinema", "Competitive Programming", "Research"]
+
+currently_working_on: ["DevChat - AI-powered Development Assistant"]
+learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Patterns"]
 ```
 
 <p align="left">
