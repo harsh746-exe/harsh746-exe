@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Harsh Dwivedi | Software Engineer & ML Enthusiast 🚀</div>
+
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Dwivedi&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Enthusiast&descAlignY=55&animation=twinkling" width="100%"/>
