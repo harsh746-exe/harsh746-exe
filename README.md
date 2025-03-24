@@ -98,13 +98,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh746-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
-## 🎵 Vibing to
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kqpovh9a590niomr1r0w88y98&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kqpovh9a590niomr1r0w88y98)
-
-</div>
-
 ---
 
 <div align="center">
