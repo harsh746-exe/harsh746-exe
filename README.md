@@ -1,5 +1,3 @@
-
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Dwivedi&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Enthusiast&descAlignY=55&animation=twinkling" width="100%"/>
 </div>
@@ -22,40 +20,52 @@
 
 ## 🌟 About Me
 
-> I'm a Software Engineer who believes in the power of code to transform ideas into reality. With a strong foundation in Computer Engineering and a passion for innovation, I specialize in building scalable applications and implementing efficient solutions.
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZm91NWV1M2t2OWFtNmE4NWF6aXBnbm5wOWFrZWxvNnJwbmJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-<details>
-<summary>🎯 Professional Journey</summary>
+### 👨‍💻 Who am I?
+```yaml
+name: Harsh Dwivedi
+located_in: India
+current_role: Software Engineer
+education:
+  [
+    "Bachelor's in Computer Engineering",
+    "Full Stack Development",
+    "Cloud Computing"
+  ]
+company: TCS
 
-### 🚀 Key Achievements
-
-- 🔄 **System Monitoring Revolution** 
-  - Automated monitoring using Python & PowerShell
-  - Reduced downtime by 30%
-  - Achieved 99.9% uptime at TCS
+fields_of_interests:
+  [
+    "Backend Development",
+    "Cloud Architecture",
+    "DevOps",
+    "Machine Learning",
+    "System Design"
+  ]
   
-- 🌐 **API Performance Optimization**
-  - Built high-performance RESTful APIs
-  - Handling 5,000+ daily requests
-  - Reduced latency to 120ms using Flask & MongoDB
+technical_background:
+  [
+    "Full-Stack Developer - Building Scalable Applications",
+    "DevOps Engineer - Cloud & Infrastructure",
+    "System Designer - Architecting Solutions"
+  ]
   
-- 🏗️ **Full-Stack Innovation**
-  - Developed Vehicle Insurance Management System
-  - Improved data retrieval speed by 35%
-  - Tech stack: Java & SQL
-  
-- ☁️ **Cloud Infrastructure Excellence**
-  - Deployed cloud-native applications on AWS
-  - Implemented Kubernetes auto-scaling
-  - Reduced server costs by 20%
+currently_learning: ["Blockchain", "Web3", "Advanced ML"]
+2024_goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
+hobbies: ["Gaming", "Cinema", "Competitive Programming", "Research"]
+```
 
-### 🎓 Education & Certifications
-- 📚 Bachelor's in Computer Engineering
-- 💻 Full Stack Development Certification
-- 🌐 Advanced Python Programming
-- ☁️ Cloud Computing Fundamentals
-
-</details>
+<p align="left">
+  <a href="https://github.com/harsh746-exe?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/harsh746-exe?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/harsh746-exe?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/harsh746-exe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/harsh746-exe">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=harsh746-exe&style=for-the-badge&color=blueviolet"/></a>
+</p>
 
 ## 💻 Technical Expertise
 
