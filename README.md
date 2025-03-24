@@ -1,87 +1,85 @@
-<h2 align="left">👋 Hi, I'm Harsh! I'm a Computer Engineering graduate with a strong background in software development and Machine Learning. Over the years, I've contributed to building scalable applications, optimizing system performance, and automating processes to enhance efficiency.
-
-A few of my favorite achievements so far: 
-* Automated system monitoring using Python & PowerShell, reducing downtime by 30% and ensuring 99.9% uptime (TCS). 
-* Built and optimized RESTful APIs handling 5,000+ requests daily, reducing average latency to 120ms (Flask, MongoDB). 
-* Developed a full-stack Vehicle Insurance Management System, improving data retrieval speed by 35% (Java, SQL). 
-* Deployed cloud-native applications on AWS, integrating Kubernetes for auto-scaling and reducing server costs by 20%.
-
-I'm passionate about backend development, cloud computing, and automation. Let’s connect and discuss how technology can drive efficiency and innovation! 🚀</h2>
-
-###
+# <div align="center">👨‍💻 Harsh Dwivedi | Software Engineer & ML Enthusiast 🚀</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh746-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh746-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=435&lines=Backend+Development;Cloud+Computing;Machine+Learning;System+Design;Automation" alt="Typing SVG" />
 </div>
 
-###
+## 🌟 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+> Software Engineer with a passion for building scalable systems and automating everything in sight! I transform complex problems into elegant solutions while sipping coffee ☕
+
+<details>
+<summary>🎯 Key Achievements</summary>
+<br>
+
+- 🔄 **System Monitoring Revolution** 
+  - Automated monitoring using Python & PowerShell
+  - Reduced downtime by 30%
+  - Achieved 99.9% uptime at TCS
+  
+- 🚀 **API Performance Optimization**
+  - Built high-performance RESTful APIs
+  - Handling 5,000+ daily requests
+  - Reduced latency to 120ms using Flask & MongoDB
+  
+- 🏗️ **Full-Stack Innovation**
+  - Developed Vehicle Insurance Management System
+  - Improved data retrieval speed by 35%
+  - Tech stack: Java & SQL
+  
+- ☁️ **Cloud Infrastructure Excellence**
+  - Deployed cloud-native applications on AWS
+  - Implemented Kubernetes auto-scaling
+  - Reduced server costs by 20%
+
+</details>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,react,angular,nodejs,spring,express,fastapi)](https://skillicons.dev)
+
+### Database & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,azure,gcp,docker,kubernetes)](https://skillicons.dev)
+
+### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,vscode,bootstrap,jquery)](https://skillicons.dev)
+
 </div>
 
-###
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh746-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh746-exe&theme=tokyonight&hide_border=true" />
 </div>
 
-###
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh746-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+</div>
 
-<br clear="both">
+## 🤝 Let's Connect
 
-<img src="https://raw.githubusercontent.com/harsh746-exe/harsh746-exe/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/harsh746-exe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh746-exe&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harsh746-exe/harsh746-exe/output/snake.svg" alt="Snake animation" />
+</div>
