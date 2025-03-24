@@ -21,7 +21,7 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZm91NWV1M2t2OWFtNmE4NWF6aXBnbm5wOWFrZWxvNnJwbmJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZm91NWV1M2t2OWFtNmE4NWF6aXBnbm5wOWFrZWxvNnJwbmJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-bottom: 20px;"/>
 </div>
 
 ### 👨‍💻 Who am I?
@@ -80,14 +80,14 @@ currently_working_on: ["DevChat - AI-powered Development Assistant"]
 learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Patterns"]
 ```
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/harsh746-exe?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/harsh746-exe?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/harsh746-exe?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/harsh746-exe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/harsh746-exe">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=harsh746-exe&style=for-the-badge&color=blueviolet"/></a>
-</p>
+</div>
 
 ## 💻 Technical Expertise
 
