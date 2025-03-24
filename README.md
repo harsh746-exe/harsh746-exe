@@ -17,9 +17,6 @@
     <a href="https://www.linkedin.com/in/harsh-dwivedi-854b39202/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/harsh746-exe">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=harsh746-exe&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
