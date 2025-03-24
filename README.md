@@ -23,7 +23,7 @@
 ### 👨‍💻 Who am I?
 ```yaml
 name: Harsh Dwivedi
-location: Syracuse, New York
+location: New York, USA
 contact: 
   email: edwivediharsh@gmail.com
   phone: +1 (680) 216-2032
