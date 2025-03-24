@@ -20,10 +20,6 @@
 
 ## 🌟 About Me
 
-<div align="center">
-  <img alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZm91NWV1M2t2OWFtNmE4NWF6aXBnbm5wOWFrZWxvNnJwbmJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-bottom: 20px;"/>
-</div>
-
 ### 👨‍💻 Who am I?
 ```yaml
 name: Harsh Dwivedi
