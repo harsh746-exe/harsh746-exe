@@ -96,19 +96,21 @@
 
 <div align="center">
 
-<a href="https://github.com/harsh746-exe/super-set">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh746-exe&repo=super-set&theme=tokyonight" />
-</a>
-<a href="https://github.com/harsh746-exe/text-generation-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh746-exe&repo=text-generation-system&theme=tokyonight" />
-</a>
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harsh746-exe&repo=super-set&theme=tokyonight)](https://github.com/harsh746-exe/super-set)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harsh746-exe&repo=text-generation-system&theme=tokyonight)](https://github.com/harsh746-exe/text-generation-system)
 
+</div>
+
+## 📊 Most Used Technologies
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh746-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 ## 🎵 Vibing to
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kqpovh9a590niomr1r0w88y98&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kqpovh9a590niomr1r0w88y98&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
