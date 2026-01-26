@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Dwivedi&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Enthusiast&descAlignY=55&animation=twinkling" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Dwivedi&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20|%20Backend%20Developer&descAlignY=55&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harsh+Dwivedi+👋;Software+Engineer+%26+ML+Enthusiast+🚀;Turning+Coffee+into+Code+☕;Building+the+Future+of+Tech+💡;Let's+Connect+and+Create+Together+🤝" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harsh+Dwivedi+👋;AI+Engineer+%26+Backend+Developer+🚀;Building+Production-Grade+Systems+💡;RAG+%26+LLM+Enthusiast+🤖;Let's+Connect+and+Create+Together+🤝" alt="Typing SVG" />
     </a>
 </div>
 
@@ -20,14 +20,11 @@
 
 ## 🌟 About Me
 
-<div align="center">
-  <img alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZm91NWV1M2t2OWFtNmE4NWF6aXBnbm5wOWFrZWxvNnJwbmJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-bottom: 20px;"/>
-</div>
-
 ### 👨‍💻 Who am I?
+
 ```yaml
 name: Harsh Dwivedi
-location: Syracuse, New York
+location: New York, United States
 contact: 
   email: edwivediharsh@gmail.com
   phone: +1 (680) 216-2032
@@ -37,47 +34,55 @@ education:
     university: Syracuse University
     location: Syracuse, New York
     duration: "August 2024 - May 2026"
-    
+  
   - degree: B.E. in Electronics Engineering
     university: Mumbai University
-    location: Navi Mumbai, Maharashtra
-    duration: "August 2019 - July 2023"
+    location: Mumbai, India
+    duration: "August 2019 - May 2023"
 
 experience:
+  - role: Platform Engineering Intern
+    company: RELI Group Inc
+    location: Syracuse, NY (Remote)
+    duration: "January 2026 - Present"
+    highlights: ["Production-grade microservices", "RAG pipelines", "FAISS & LangChain", "Multi-million record workloads"]
+  
+  - role: Team Lead & Full Stack Engineer
+    company: iConsult Collaborative
+    location: Syracuse, NY
+    duration: "March 2025 - December 2025"
+    highlights: ["Led 5-member team", "Gymin platform", "FastAPI & Kafka", "Sub-100ms API responses", "20% sprint improvement"]
+  
   - role: Assistant System Engineer
     company: Tata Consultancy Services (TCS)
-    duration: "January 2024 - July 2024"
-    highlights: ["Automated monitoring", "Cloud management", "Process optimization"]
-    
-  - role: Freelance Web Developer
-    company: Picky with Picks
-    duration: "November 2022 - January 2023"
-    
-  - role: Cloud Intern
-    company: AICTE
-    duration: "October 2021 - December 2021"
-    
-  - role: Data Intern
-    company: TCR Innovations
-    duration: "June 2021 – August 2021"
+    location: Mumbai, India
+    duration: "October 2022 - July 2024"
+    highlights: ["ENI Energy infrastructure", "Automation scripts", "100+ servers", "15% uptime improvement", "30% faster ticket resolution"]
+  
+  - role: Software Engineer, Backend and Data
+    company: VAC Reports
+    location: Mumbai, India
+    duration: "June 2021 - August 2022"
+    highlights: ["FastAPI & Flask services", "ETL pipelines", "PostgreSQL & S3", "65% data consistency improvement", "70% verification time reduction"]
 
 achievements:
   - "Patent Application No. 202321073609"
-  - "Reduced system downtime by 30%"
-  - "Improved data analysis times by 40%"
-  - "Enhanced security compliance by 40%"
+  - "90%+ precision on contract analytics with RAG"
+  - "20% sprint throughput improvement"
+  - "40% deployment time reduction"
+  - "35% API latency reduction under peak load"
 
 fields_of_interests:
   [
-    "Cloud Architecture",
-    "DevOps & CI/CD",
-    "Full Stack Development",
-    "System Design",
-    "Machine Learning"
+    "AI/ML Systems",
+    "RAG & LLM Integration",
+    "Backend Architecture",
+    "Distributed Systems",
+    "Cloud & DevOps"
   ]
 
-currently_working_on: ["DevChat - AI-powered Development Assistant"]
-learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Patterns"]
+currently_working_on: ["Production RAG pipelines", "Microservice platforms", "Real-time data processing"]
+learning: ["Advanced RAG architectures", "Vector databases", "LLM optimization", "System Design Patterns"]
 ```
 
 <div align="center">
@@ -95,18 +100,23 @@ learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Pa
 <summary>🔧 Skills & Technologies</summary>
 
 ### 🌐 Frontend Development
+
 [![Frontend Skills](https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,sass,bootstrap)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
+
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,django)](https://skillicons.dev)
 
 ### 🛢️ Database Technologies
+
 [![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,graphql)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
+
 [![Cloud Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
 
 </details>
@@ -115,10 +125,10 @@ learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Pa
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
-- 🔭 Currently working on **Machine Learning Projects**
-- 🌱 Learning **Blockchain Development** and **Web3**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **System Design**, **Cloud Architecture**, or **Backend Development**
+- 🔭 Currently working on **RAG pipelines** and **Production microservices**
+- 🌱 Learning **Advanced LLM integration** and **Vector database optimization**
+- 👯 Looking to collaborate on **AI/ML projects** and **Open Source**
+- 💬 Ask me about **RAG architecture**, **FastAPI**, **Kafka**, or **System Design**
 - ⚡ Fun fact: I can debug code faster than I can find my keys! 🔑
 
 ## 📊 Most Used Technologies
