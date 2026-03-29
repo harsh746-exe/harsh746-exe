@@ -100,12 +100,16 @@ learning: ["Advanced RAG architectures", "Vector databases", "LLM optimization",
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6E45E1?style=for-the-badge&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-FF4088?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTUgOEwxMiA2TDkgOEwxMiAyWk0xMiA4TDE2IDE1TDEyIDEyTDggMTVMMTIgOFpNMTIgMTRMMTUgMjBMMTIgMThMOSAyMEwxMiAxNFoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/>
+
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-6E45E1?style=for-the-badge&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF4088?style=for-the-badge&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_DBs-00ADD8?style=for-the-badge&logoColor=white)
 
 ### 🌐 Frontend Development
 
