@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harsh+Dwivedi+👋;AI+Engineer+%26+Backend+Developer+🚀;Building+Production-Grade+Systems+💡;RAG+%26+LLM+Enthusiast+🤖;Let's+Connect+and+Create+Together+🤝" alt="Typing SVG" /> -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harsh+Dwivedi+👋;AI+Engineer+%26+Backend+Developer+🚀;Building+Production-Grade+Systems+💡;RAG+%26+LLM+Enthusiast+🤖;Let's+Connect+and+Create+Together+🤝" alt="Typing SVG" />
     </a>
 </div>
 
@@ -41,7 +41,6 @@ education:
 
 experience:
   - role: Software Engineering Intern (AI & Platform)
-
     company: RELI Group Inc
     location: Syracuse, NY (Remote)
     duration: "January 2026 - Present"
@@ -95,6 +94,19 @@ learning: ["Advanced RAG architectures", "Vector databases", "LLM optimization",
 <details open>
 <summary>🔧 Skills & Technologies</summary>
 
+### 🤖 AI / ML & LLM
+
+[![AI/ML Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6E45E1?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-FF4088?style=for-the-badge&logoColor=white)
+
 ### 🌐 Frontend Development
 
 [![Frontend Skills](https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,sass,bootstrap)](https://skillicons.dev)
@@ -102,6 +114,9 @@ learning: ["Advanced RAG architectures", "Vector databases", "LLM optimization",
 ### ⚙️ Backend Development
 
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,django)](https://skillicons.dev)
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🛢️ Database Technologies
 
@@ -121,7 +136,7 @@ learning: ["Advanced RAG architectures", "Vector databases", "LLM optimization",
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
-- 🔭 Currently working on **RAG pipelines** and **Production microservices**
+- 🔭 Currently working on **RAG pipelines** and **Production microservices** at **RELI Group Inc**
 - 🌱 Learning **Advanced LLM integration** and **Vector database optimization**
 - 👯 Looking to collaborate on **AI/ML projects** and **Open Source**
 - 💬 Ask me about **RAG architecture**, **FastAPI**, **Kafka**, or **System Design**
