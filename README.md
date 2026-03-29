@@ -27,7 +27,6 @@ name: Harsh Dwivedi
 location: New York, United States
 contact: 
   email: edwivediharsh@gmail.com
-  phone: +1 (680) 216-2032
 
 education:
   - degree: M.S. in Computer Engineering
@@ -41,7 +40,8 @@ education:
     duration: "August 2019 - May 2023"
 
 experience:
-  - role: Platform Engineering Intern
+  - role: Software Engineering Intern (AI & Platform)
+
     company: RELI Group Inc
     location: Syracuse, NY (Remote)
     duration: "January 2026 - Present"
@@ -67,10 +67,6 @@ experience:
 
 achievements:
   - "Patent Application No. 202321073609"
-  - "90%+ precision on contract analytics with RAG"
-  - "20% sprint throughput improvement"
-  - "40% deployment time reduction"
-  - "35% API latency reduction under peak load"
 
 fields_of_interests:
   [
